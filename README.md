@@ -50,6 +50,7 @@
 > **:: Securing SMB traffc in Windows** - _Great article on securing SMB(and other) traffic in a network._<br>
 > _(https://techcommunity.microsoft.com/t5/itops-talk-blog/beyond-the-edge-how-to-secure-smb-traffic-in-windows/ba-p/1447159)_ <br>
 > -- Tags -- [`SMB`, `Windows`, `NFS`, `SSH`, `RDP`, `SFTP`, `RPC`, `Firewall`] <br>
+[<img alt="Twitter" src="https://img.shields.io/twitter/follow/nerdpyle?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=nerdpyle) <br>
 
 <br>
 
