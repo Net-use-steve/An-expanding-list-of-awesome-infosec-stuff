@@ -1,5 +1,7 @@
-# An-expanding-list-of-awesome-infosec-stuff-
-### Just awesome and useful infosec tools, articles, posts and guides with a blue team focus. 
+# An expanding list of awesome infosec stuff
+### Just awesome and useful infosec tools, articles, posts and guides with a blue team focus. Not meant to be an exhaustive list, just things I've found useful and hopefully you will too.
+
+<img alt="Twitter" src="https://img.shields.io/twitter/follow/Net_Use_steve?label=Follow">
 
 **CONTENTS**
 > - [Hardening articles and scripts](#hardening-articles-and-scripts)
@@ -42,3 +44,6 @@
 > **:: Living off the land binaries and scripts (LOLBAS)** - _"The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques"_<br>
 > _(https://lolbas-project.github.io/)_ <br>
 > -- Tags -- [`LOLBAS`, `Microsoft`, `Binaries`, `Scripts`] <br>
+
+<br>
+<img alt="Twitter" src="https://img.shields.io/twitter/follow/Net_Use_steve?label=Follow">
