@@ -14,22 +14,31 @@
 > - [Useful red/blue team articles and sites](#useful-redblue-team-articles-and-sites)
 
 
-### Hardening articles and scripts
+## Hardening articles and scripts
 
-### Learning
+## Learning
 
-### Malware triage scripts
+## Malware triage scripts
+> **:: Malwoverview** - _"first response tool to perform an initial and quick triage in a directory containing malware samples"_<br>
+ _(https://github.com/alexandreborges/malwoverview)_<br>
+> -- Tags -- [`Malware`,`Python`,`Polyswarm`,`Virustotal`,`Malshare`,`Urlhaus`,`Hybrid-Analysis`] <br>
 
-### News articles
+## News articles
 
 > ### Malware
 
 >>   ### 2020: Malware News
 
-### Threat hunting
+## Threat hunting
 
-### Twitter posts
+## Twitter posts
 
 > ### How to
+>> **:: Kevin Beaumont** - _How to "build a worldwide BlueKeep honeypot from scratch on a $50 budget"_<br> 
+>> _(https://threadreaderapp.com/thread/1132592180223238144.html)_<br>
+>> -- Tags -- [`RDP`,`Virtual Machines`,`Sentinnel`,`BlueKeep`,`Honeypot`] <br>
 
-### Useful red/blue team articles and sites
+## Useful red/blue team articles and sites
+> **:: Living off the land binaries and scripts (LOLBAS)** - _"The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques"_<br>
+> _(https://lolbas-project.github.io/)_ <br>
+> -- Tags -- [`LOLBAS`, `Microsoft`, `Binaries`, `Scripts`] <br>
