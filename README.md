@@ -18,11 +18,11 @@
 
 ## Hardening articles and scripts
 > **[:: Windows 10 hardening](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe)** _CMD script to perform windows hardening actions on Win10 devices._ <br>
-> -- Tags -- [CMD, Win10, Defender] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/mackwage?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=mackwage) <br>
+> -- Tags -- [`CMD`, `Win10`, `Defender`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/mackwage?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=mackwage) <br>
 
 ## Learning
 > **[:: MalwareUnicorn workshops](https://malwareunicorn.org/#/workshops)** - _Workshops covering malware reverse engineering, anti-analysis and other learning areas._ <br>
-> -- Tags -- [MalwareUnicorn, Reverse Engineering, Malware, Analysis, Dylib] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/malwareunicorn?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=malwareunicorn) <br>
+> -- Tags -- [`MalwareUnicorn`, `Reverse Engineering`, `Malware`, `Analysis`, `Dylib`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/malwareunicorn?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=malwareunicorn) <br>
 
 ## Malware triage scripts
 > **[:: Malwoverview](https://github.com/alexandreborges/malwoverview)** - _"first response tool to perform an initial and quick triage in a directory containing malware samples"_<br> 
@@ -39,7 +39,7 @@
 
 ## Threat hunting
 > **[:: Grafiki](https://github.com/lucky-luk3/Grafiki/tree/master/grafiki)** - _Tool for threathunting using Sysmon and graphs._<br>
-> -- Tags -- [Threat hunting, Sysmon, Django, Python, Lucky-luk3, @Lukky86] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Lukky86?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Lukky86) <br> 
+> -- Tags -- [`Threat hunting`, `Sysmon`, `Django`, `Python`, `Lucky-luk3`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Lukky86?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Lukky86) <br> 
 
 ## Twitter posts
 
@@ -49,7 +49,7 @@
 
 ## Useful red/blue team articles and sites
 > **[:: Living off the land binaries and scripts (LOLBAS)](https://lolbas-project.github.io/)** - _"The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques"_<br>
-> -- Tags -- [`LOLBAS`, `Microsoft`, `Binaries`, `Scripts`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Oddvarmoe?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Oddvarmoe) <br>
+> -- Tags -- [`LOLBAS`, `Microsoft`, `Binaries`, `Scripts`, `api0cradle`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Oddvarmoe?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Oddvarmoe) <br>
 
 > **:: [Securing SMB traffc in Windows](https://techcommunity.microsoft.com/t5/itops-talk-blog/beyond-the-edge-how-to-secure-smb-traffic-in-windows/ba-p/1447159)** - _Great article on securing SMB(and other) traffic in a network._<br>
 > -- Tags -- [`SMB`, `Windows`, `NFS`, `SSH`, `RDP`, `SFTP`, `RPC`, `Firewall`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/nerdpyle?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=nerdpyle) <br>
