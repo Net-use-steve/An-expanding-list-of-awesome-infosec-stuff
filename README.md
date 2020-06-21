@@ -1,9 +1,9 @@
 # An expanding list of awesome infosec stuff
-### Just awesome and useful infosec tools, articles, posts and guides with a blue team focus. Not meant to be an exhaustive list, just things I've found useful and hopefully you will too.
+Just awesome and useful infosec tools, articles, posts and guides with a blue team focus. Not meant to in any way be an exhaustive list, just things I've found useful and hopefully you will too.
 
 [<img alt="Twitter" src="https://img.shields.io/twitter/follow/Net_Use_steve?label=Follow">](https://twitter.com/intent/follow?screen_name=Net_Use_steve)
 
-**CONTENTS**
+# CONTENTS
 > - [Hardening articles and scripts](#hardening-articles-and-scripts)
 > - [Learning](#learning)
 > - [Malware triage scripts](#malware-triage-scripts)
