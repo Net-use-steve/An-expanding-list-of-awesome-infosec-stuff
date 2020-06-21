@@ -31,10 +31,10 @@
 ## News articles
 
 > ### Malware
-
+>
 >>   ### 2020: Malware News
->> **[:: "The ransomware that attacks you from inside a virtual machine"](https://nakedsecurity.sophos.com/2020/05/22/the-ransomware-that-attacks-you-from-inside-a-virtual-machine/)**
->> -- Tags -- [`Ransomware`, `Ragnor`, `Virtual machine`, `Virtualbox`, `Sophos`, `XP`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/nakedsecurity?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=nakedsecurity) <br>
+>>> **[:: "The ransomware that attacks you from inside a virtual machine"](https://nakedsecurity.sophos.com/2020/05/22/the-ransomware-that-attacks-you-from-inside-a-virtual-machine/)**
+>>> -- Tags -- [`Ransomware`, `Ragnor`, `Virtual machine`, `Virtualbox`, `Sophos`, `XP`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/nakedsecurity?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=nakedsecurity) <br>
 
 
 ## Threat hunting
