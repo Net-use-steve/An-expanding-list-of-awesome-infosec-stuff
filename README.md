@@ -33,13 +33,16 @@
 > ### Malware
 >
 >>   ### 2020: Malware News
->>> **[:: "The ransomware that attacks you from inside a virtual machine"](https://nakedsecurity.sophos.com/2020/05/22/the-ransomware-that-attacks-you-from-inside-a-virtual-machine/)**
+>>> **[:: "The ransomware that attacks you from inside a virtual machine"](https://nakedsecurity.sophos.com/2020/05/22/the-ransomware-that-attacks-you-from-inside-a-virtual-machine/)** <br>
 >>> -- Tags -- [`Ransomware`, `Ragnor`, `Virtual machine`, `Virtualbox`, `Sophos`, `XP`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/nakedsecurity?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=nakedsecurity) <br>
 
 
 ## Threat hunting
 > **[:: Grafiki](https://github.com/lucky-luk3/Grafiki/tree/master/grafiki)** - _Tool for threathunting using Sysmon and graphs._<br>
 > -- Tags -- [`Threat hunting`, `Sysmon`, `Django`, `Python`, `Lucky-luk3`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Lukky86?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Lukky86) <br> 
+
+> **[:: Sigma](https://github.com/Neo23x0/sigma)** - _"Generic Signature Format for SIEM Systems". Also great for writing threat hunting queries._ <br>
+> -- Tags -- [`Threat hunting`, `Sigma`, `Neo23x0`, `SIEM`, `Mitre att&ck`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/cyb3rops?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=cyb3rops) &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/blubbfiction?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=blubbfiction) <br> 
 
 ## Twitter posts
 
@@ -56,4 +59,3 @@
 
 <br>
 
-[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Net_Use_steve?label=Follow">](https://twitter.com/intent/follow?screen_name=Net_Use_steve)
