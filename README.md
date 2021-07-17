@@ -48,7 +48,7 @@ Just awesome and useful infosec tools, articles, posts and guides with a blue te
 
 
 ## Threat hunting
-> **[:: Grafiki](https://github.com/lucky-luk3/Grafiki/tree/master/grafiki)** - _Tool for threathunting using Sysmon and graphs._<br>
+> **[:: Grafiki](https://github.com/lucky-luk3/Grafiki)** - _Tool for threathunting using Sysmon and graphs._<br>
 > -- Tags -- [`Threat hunting`, `Sysmon`, `Django`, `Python`, `Lucky-luk3`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/Lukky86?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=Lukky86) <br> 
 
 > **[:: Sigma](https://github.com/Neo23x0/sigma)** - _"Generic Signature Format for SIEM Systems". Also great for writing threat hunting queries._ <br>
