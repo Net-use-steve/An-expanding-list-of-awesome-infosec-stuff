@@ -32,6 +32,12 @@ Just awesome and useful infosec tools, articles, posts and guides with a blue te
 > **[:: Malwoverview](https://github.com/alexandreborges/malwoverview)** - _"first response tool to perform an initial and quick triage in a directory containing malware samples"_<br> 
 > -- Tags -- [`Malware`,`Python`,`Polyswarm`,`Virustotal`,`Malshare`,`Urlhaus`,`Hybrid-Analysis`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/ale_sp_brazil?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=ale_sp_brazil) <br>
 
+> **[:: pestudio](https://www.winitor.com/)** - _"The goal of pestudio is to spot artifacts of executable files in order to ease and accelerate Malware Initial Assessment."_<br> 
+> -- Tags -- [`Malware`,`Virustotal`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/ochsenmeier?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=ochsenmeier) <br>
+
+> **[:: oletools](https://www.decalage.info/python/oletools)** - _"python-oletools is a package of python tools to analyze Microsoft OLE2 files (also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging."_<br> 
+> -- Tags -- [`Malware`,`OLE`,`Office Doc`,`python`] &nbsp;[<img alt="Twitter" src="https://img.shields.io/twitter/follow/decalage2?label=Follow-Author">](https://twitter.com/intent/follow?screen_name=decalage2) <br>
+
 ## News articles
 
 > ### Malware
